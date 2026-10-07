@@ -1,8 +1,9 @@
-## Hi there 👋
-
+## Hello
+##My name is Haakon Mouat, a computer science major at WSU
 <!--
 **TheHaakon/TheHaakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/This%20is%20a-badge-blue
+look at this image ![spooky](https://img.shields.io/badge/This%20is%20a-badge-blue)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
